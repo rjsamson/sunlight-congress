@@ -1,5 +1,6 @@
 require 'net/http'
 require 'json'
+require 'hashie'
 require "sunlight/congress/version"
 
 module Sunlight
